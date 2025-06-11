@@ -1,6 +1,6 @@
 # Notes, programs, and files
 
-This repo contains the notebook + files from my training class.  It'll remain open, so you can review the material later on.
+This repo contains the notebook + files from my OO class.  It'll remain open, so you can review the material later on.
 
 Enjoy!
 
